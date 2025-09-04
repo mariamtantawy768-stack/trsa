@@ -9,4 +9,8 @@ oninput = function () {
      } else {
       result.textContent =  `${dollar} USD Dollar = ${egp} Egyptian Pound`
      }
+
 }
+
+
+console.log("JS Loaded!");
