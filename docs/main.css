@@ -1,4 +1,4 @@
-form , input , h2 {
+form , input  {
     text-align: center;
     margin: 50px;
     font-size: 50px;
@@ -11,7 +11,7 @@ input {
 }
 
 h2 {
-    text-align: center;
+   text-align: center;
     font-size: 50px;
-
 }
+
